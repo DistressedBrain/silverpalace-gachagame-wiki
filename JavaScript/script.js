@@ -1,5 +1,11 @@
 const SUBREDDITS_TO_SHOW = [
-    "cinderellaMains"
+    "cinderellaMains",
+    "ArgosMains",
+    "DetectiveMains",
+    "HuginnMains",
+    "MuninnMains",
+    "AlfMains",
+    "RoseMains",
 ];
 const cardsGrid = document.getElementById('cardsGrid');
 
