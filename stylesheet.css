@@ -1,0 +1,249 @@
+.UI {
+    padding: auto;
+    background-size: 100% auto;
+    justify-content: center;
+}
+
+
+.n1 {
+    background: url(/MainMenu/bg_menu_button_01.png) no-repeat;
+    position: relative;
+    background-size: cover;
+    top: 36.8em;
+    left: 31.5em;
+    width: 337px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+}
+
+.n2 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 36.8em;
+    left: 32.2em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+}
+
+.n3 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 36.8em;
+    left: 32.4em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+}
+
+.n4 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 36.8em;
+    left: 32.7em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+}
+
+.n5 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 50.5em;
+    left: -31.5em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+
+}
+
+.n6 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 50.5em;
+    left: -30.8em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+
+}
+
+.n7 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 50.5em;
+    left: -30.1em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+}
+
+.n8 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 50.5em;
+    left: -29.8em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+}
+
+.n9 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 50.5em;
+    left: -29.5em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+}
+
+.n10 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    left: 128.1em;
+    top: 24.4em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+}
+
+.n11 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 24.4em;
+    left: 128.5em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+}
+
+.n12 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 24.4em;
+    left: 128.7em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+}
+
+.n13 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 24.4em;
+    left: 128.9em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+}
+
+.n14 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 24.4em;
+    left: 129.2em;
+    width: 162px;
+    height: 162px;
+    border: none;
+    padding: 0;
+
+}
+
+.n15 {
+    background: url(/MainMenu/bg_menu_button_02.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 45em;
+    left: 190em;
+    width: 158px;
+    height: 158px;
+    border: none;
+    padding: 0;
+
+}
+
+.n16 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 45em;
+    left: 190em;
+    width: 158px;
+    height: 158px;
+    border: none;
+    padding: 0;
+
+}
+
+.n17 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 45em;
+    left: 190em;
+    width: 158px;
+    height: 158px;
+    border: none;
+    padding: 0;
+
+}
+
+.n18 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 45em;
+    left: 190em;
+    width: 158px;
+    height: 158px;
+    border: none;
+    padding: 0;
+
+}
+
+.n19 {
+    background: url(/MainMenu/Bg_Menu_Button_Null.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: 45em;
+    left: 190em;
+    width: 158px;
+    height: 158px;
+    border: none;
+    padding: 0;
+
+}

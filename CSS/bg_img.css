@@ -1,0 +1,36 @@
+.background {
+    position: fixed;
+    z-index: -1;
+}
+
+.background img {
+    position: fixed;
+    background-blend-mode: overlay;
+    object-fit: cover;
+    width: auto;
+    height: auto;
+}
+
+.bg_mask {
+    background-size: cover;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.bg {
+    background-size: auto;
+    z-index: 2;
+
+}
+
+.horizon {
+    background-size: cover;
+    background-position: bottom;
+    z-index: 3;
+}
+
+.bird {
+    background-size: auto;
+    background-position: bottom right;
+    z-index: 4;
+}
