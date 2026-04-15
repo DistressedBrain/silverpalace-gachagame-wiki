@@ -1,36 +1,182 @@
-.background {
-    position: fixed;
-    z-index: -1;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-.background img {
-    position: fixed;
-    background-blend-mode: overlay;
-    object-fit: cover;
-    width: auto;
-    height: auto;
+.body {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
 }
 
-.bg_mask {
+
+.bg-layer {
+    position: absolute;
+    inset: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*.bg-layer-1 {
+    background-image: url("/MainMenu/img_menu_bg_bird_1_1.png");
+    background-size: 91%;
+    z-index: 10;
+    opacity: 1;
+    left: 115em;
+    bottom: 49em;
+}*/
+.bg-layer-2 {
+    background-image: url("/MainMenu/img_menu_bg_bird_3_1.png"), url("/MainMenu/img_menu_bg_bird_3_2.png");
+    background-size: auto;
+    z-index: 10;
+    opacity: 1;
+    mix-blend-mode: screen;
+}
+.bg-layer-3 {
+    background-image: url("/MainMenu/img_menu_bg_bird_4_1.png"), url("/MainMenu/img_menu_bg_bird_4_2.png");
+    background-size: auto;
+    z-index: 10;
+    opacity: 1;
+    mix-blend-mode: screen;
+}
+.bg-layer-4 {
+    background-image: url("/MainMenu/img_menu_bg_bird_5_1");
+    background-size: auto;
+    z-index: 10;
+    opacity: 1;
+    mix-blend-mode: screen;
+}
+.bg-layer-5 {
+    background-image: url("/MainMenu/");
     background-size: cover;
-    opacity: 0.5;
-    z-index: 1;
+    z-index: 2;
+    opacity: 1;
+    mix-blend-mode: screen;
+}
+.bg-layer-6 {
+    background-image: url("/MainMenu/");
+    background-size: cover;
+    z-index: 2;
+    opacity: 1;
+    mix-blend-mode: screen;
+}
+.bg-layer-7 {
+    background-image: url("/MainMenu/");
+    background-size: cover;
+    z-index: 2;
+    opacity: 1;
+    mix-blend-mode: screen;
+}
+.bg-layer-8 {
+    background-image: url("/MainMenu/img_menu_bg_01_bg.png");
+    background-size: cover;
+    z-index: 2;
+    opacity: 1;
+    mix-blend-mode: screen;
 }
 
-.bg {
+.bg-layer-9 {
+    background-image: url("/MainMenu/img_menu_bg_01_bg_mask.png");
+    background-size: cover;
+    z-index: 1;
+    opacity: 0,1;
+}
+
+.bg-layer-10 {
+    background-image: url("/MainMenu/img_menu_bg_01_bird.png");
+    background-size: auto;
+    z-index: 10;
+    opacity: 1;
+    background-position: bottom right;
+}
+
+.bg-layer-11 {
+    background-image: url("/MainMenu/img_menu_bg_01_horizon.png");
+    background-size: auto;
+    z-index: 10;
+    opacity: 1;
+    top: 67em;
+}
+
+.bg-layer-12 {
+    background-image: url("/MainMenu/img_menu_bg_01_horizon_top.png");
+    background-size: auto;
+    z-index: 10;
+    opacity: 1;
+    top: 37em;
+}
+
+.bg-layer-13 {
+    background-image: url("/MainMenu/img_menu_bg_horizon_top_mask.png");
     background-size: auto;
     z-index: 2;
-
+    opacity: 1;
+    background-position: 67em;
 }
 
-.horizon {
-    background-size: cover;
-    background-position: bottom;
-    z-index: 3;
-}
-
-.bird {
+.bg-layer-14 {
+    background-image: url("/MainMenu/");
     background-size: auto;
-    background-position: bottom right;
     z-index: 4;
+    opacity: 1;
+    background-position: bottom right;
+}
+.bg-layer-15 {
+    background-image: url("/MainMenu/");
+    background-size: auto;
+    z-index: 4;
+    opacity: 1;
+    background-position: bottom right;
+}
+.bg-layer-16 {
+    background-image: url("/MainMenu/");
+    background-size: auto;
+    z-index: 4;
+    opacity: 1;
+    background-position: bottom right;
+}
+.bg-layer-17 {
+    background-image: url("/MainMenu/");
+    background-size: auto;
+    z-index: 4;
+    opacity: 1;
+    background-position: bottom right;
+}
+.bg-layer-18 {
+    background-image: url("/MainMenu/");
+    background-size: auto;
+    z-index: 4;
+    opacity: 1;
+    background-position: bottom right;
+}
+.bg-layer-19 {
+    background-image: url("/MainMenu/");
+    background-size: auto;
+    z-index: 4;
+    opacity: 1;
+    background-position: bottom right;
+}
+.bg-layer-20 {
+    background-image: url("/MainMenu/");
+    background-size: auto;
+    z-index: 4;
+    opacity: 1;
+    background-position: bottom right;
+}
+.bg-layer-45 {
+    background-image: url("/MainMenu/img_menu_bird_01.png");
+    background-size: 100%;
+    z-index: 10;
+    opacity: 1;
+    left: 114em;
+    bottom: 49em;
+}
+
+.bg-layer-73 {
+    background-image: url("/MainMenu/img_menu_smallplanet.png");
+    background-size: 42%;
+    z-index: 4;
+    opacity: 1;
+    left: 32em;
+    bottom: 22em;
 }
