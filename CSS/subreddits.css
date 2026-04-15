@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/MainMenu/img_menu_bg_01_bg.png");
+    background-image: url("/Menu/img_menu_bg_01_bg.png");
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, sans-serif;
