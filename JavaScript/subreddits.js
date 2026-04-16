@@ -6,6 +6,10 @@ const SUBREDDITS_TO_SHOW = [
     "MuninnMains",
     "AlfMains",
     "RoseMains",
+    "FirthoMains",
+    "AshelyMains",
+    "LorinMains",
+    "CynthiaMains",
 ];
 const cardsGrid = document.getElementById('cardsGrid');
 
